@@ -10,6 +10,5 @@ In this project I use various big data tools like hadoop, Spark and Cassandra fo
 1. MapReduce codes in java
 1. Process Mapreduce operation using Pyspark
 1. Store mapreduce outputs in a dataframe into a cassandra table to retrieve our required results.
-<br> 
-*I ran cassandra locally as the size of my datasets and scope of my project was quite small*
+I ran cassandra locally as the size of my datasets and scope of my project was quite small
 
